@@ -14,7 +14,7 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 
 ``BOT_USERNAME : YOUR TELEGRAM BOT TOKEN``
 
-``GP_API_KEY : YOUR TELEGRAM BOT TOKEN``
+``GP_API_KEY : YOUR GPLINKS API KEY``
 
 GET YOUR ``GP_API_KEY`` FROM [HERE](https://gplinks.in/member/tools/api)
 # COMMANDS
