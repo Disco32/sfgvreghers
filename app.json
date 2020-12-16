@@ -8,7 +8,7 @@
         "Bot"
     ],
     "logo": "https://telegra.ph/file/c580e90a6484cdb3ddf9e.jpg",
-    "repository": "https://github.com/CyberBoyAyush/Gp-Links-Bot",
+    "repository": "https://github.com/Linuxinet/Gp-Links-Bot",
     "success_url": "/",
     "env": {
         "BOT_TOKEN": {
