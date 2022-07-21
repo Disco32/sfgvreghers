@@ -21,3 +21,17 @@ RockLinks.net
 </b>
 EOM;
 ?>
+
+//=========OTHERS=======//
+$API_MESSAGE = $_ENV["API_MESSAGE"] =<<<EOM
+
+<b>𝗛𝗘𝗟𝗟𝗢🎈
+
+𝗜'𝗺 RockLinks Bot. You can short URL using me.
+
+Click /help for more information.
+
+RockLinks.net
+</b>
+EOM;
+?>
