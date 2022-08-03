@@ -45,6 +45,15 @@ if($text == "/start")
                 'text' =>"$START_MESSAGE",
  'parse_mode'=>'HTML',
 ]);
+if($text == "/api") 
+
+            bot('sendmessage', [
+                'chat_id' =>$chat_id,
+                'text' =>"$API_SET",
+ 'parse_mode'=>'HTML',
+]);
+
+
 if($text !== '/start'){
 
 $get = json_decode(file_get_contents("https://gplinks.in/api?api=$GP_API_KEY&url=$text"),true);
